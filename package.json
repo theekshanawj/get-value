@@ -1,0 +1,24 @@
+{
+  "name": "valueget",
+  "version": "1.0.0",
+  "description": "Utility function to get value of JS object or array ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theekshanawj/get-value.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Util",
+    "Get"
+  ],
+  "author": "Theekshana Wijesinghe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theekshanawj/get-value/issues"
+  },
+  "homepage": "https://github.com/theekshanawj/get-value#readme"
+}
