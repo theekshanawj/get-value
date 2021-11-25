@@ -1,5 +1,5 @@
 {
-  "name": "valueget",
+  "name": "get-value-at",
   "version": "1.0.0",
   "description": "Utility function to get value of JS object or array ",
   "main": "index.js",

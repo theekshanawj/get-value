@@ -7,7 +7,7 @@ This util has enhanced the functionality of the <i> Lodash's </i> `get` by allow
 ## Add to your application
 
 ```
-npm i valueget
+npm i get-value-at
 ```
 
 ## Usage
